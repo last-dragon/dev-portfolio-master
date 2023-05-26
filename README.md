@@ -548,11 +548,11 @@ I highly recommend to use [Vercel](https://vercel.app) because it is super easy.
 
 ## Authors
 
-- **Mayank Agarwal** - [https://github.com/mayankagarwal09](https://github.com/mayankagarwal09)
+- **L@st Dr@gon** - [https://github.com/last-dragon](https://github.com/last-dragon)
 
 ## Support
 
-If you find a bug, feel free to [open an issue](https://github.com/mayankagarwal09/dev-portfolio/issues) in this repository.
+If you find a bug, feel free to [open an issue](https://github.com/last-dragon/dev-portfolio/issues) in this repository.
 
 ## License 📄
 
